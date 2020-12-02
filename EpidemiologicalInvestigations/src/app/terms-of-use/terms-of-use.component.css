@@ -1,0 +1,9 @@
+body{
+    direction: rtl;
+}
+ol{
+    direction: rtl;
+}
+h1 , h3{
+    text-align: center;
+}
